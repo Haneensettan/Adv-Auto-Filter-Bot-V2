@@ -5,16 +5,15 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i> MY NAME IS MILLIE BOBBY BROWN
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
-For More Details Click Help Button Below..
-@CrazyBotsz
-</i>"""    
+Made for @malayalam_movies_11
+
+MADE BY @MOHD_HANEEN
     
     HELP_TEXT = """
-<b><i><u>How To Use Me!?</u></i></b>
+<b><i><u> No One Gonna Help you 🤣🤣 </u></i></b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
